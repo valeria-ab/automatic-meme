@@ -6,6 +6,8 @@ function App() {
   return (
     <div className="App">
      Hello dudes
+        hihihi
+        <div>HI-HI</div>
     </div>
   );
 }
